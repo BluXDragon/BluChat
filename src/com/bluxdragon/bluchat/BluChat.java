@@ -43,4 +43,5 @@ Permissions
 	bluchat.player.cannotignore
 	bluchat.player.colorchat
 	bluchat.player.colorchat.3
+	//test
 */
