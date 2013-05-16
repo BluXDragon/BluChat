@@ -9,7 +9,6 @@ public class BluChat extends Plugin{
 
 	public void disable() {
 		Canary.help().unregisterCommands(this);
-		getLogman().logInfo(name + " disabled.");
 	}
 
 	public boolean enable() {
